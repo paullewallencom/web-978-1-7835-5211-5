@@ -1,0 +1,41 @@
+<link type="text/css" rel="stylesheet" href="css/level-1.css" media="all">
+<link type="text/css" rel="stylesheet" href="css/levels.css" media="all">
+
+<main class="container black">
+    <section id="space">
+        <div id="p0" class="row"></div>
+        <div id="p1" class="row"></div>
+    </section>
+    <section id="stratosphere" class="wet-asphalt curve2">
+        <div id="p2" class="row wet-asphalt curve"></div>
+        <div id="p3" class="row color-4 curve"></div>
+        <div id="p4" class="row color-3"></div>
+        <div id="p5" class="row color-2"></div>
+        <div id="p6" class="row color-1"></div>
+    </section>
+    <section id="sky" class="color-1">
+        <div id="p7" class="row color-0 curve2"></div>
+        <div id="p8" class="row color-0"></div>
+        <div id="p9" class="row color-0"></div>
+        <div id="p10" class="row color-0"></div>
+        <div id="p11" class="row color-0"></div>
+        <div id="p12" class="row color-0"></div>
+        <div id="p13" class="row color-0"></div>
+    </section>
+    <section id="objects"></section>
+    <section id="terra"></section>
+    <section id="controller">
+        <div id="controls">
+            <i id="leftClick" class="fa fa-arrow-circle-o-left white"
+               onmousedown="levels.click.intervalMove()"
+               onmouseup="levels.click.intervalMove()"
+               onmouseout="levels.click.intervalMove()"
+                    ></i>
+            <i id="rightClick" class="fa fa-arrow-circle-o-right white"
+               onmousedown="levels.click.intervalMove()"
+               onmouseup="levels.click.intervalMove()"
+               onmouseout="levels.click.intervalMove()"
+                    ></i>
+        </div>
+    </section>
+</main>

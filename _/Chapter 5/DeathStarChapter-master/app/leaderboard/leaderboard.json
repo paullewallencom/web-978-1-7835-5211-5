@@ -1,0 +1,32 @@
+{
+  "objectgroups": {
+    "leaderboard": {
+      "objects": [
+        {
+          "person": "BSL",
+          "score": 100
+        },
+        {
+          "person": "AK",
+          "score": 999
+        },
+        {
+          "person": "SOS",
+          "score": 500
+        },
+        {
+          "person": "BSL",
+          "score": 100
+        },
+        {
+          "person": "AK",
+          "score": 999
+        },
+        {
+          "person": "SOS",
+          "score": 500
+        }
+      ]
+    }
+  }
+}

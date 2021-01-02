@@ -1,0 +1,81 @@
+#rocket > span{
+    -ms-transform: rotate(315deg);
+    -webkit-transform: rotate(315deg);
+    transform: rotate(315deg);
+    position: fixed;
+    left: 40%;
+}
+#rocket > span > i:first-child{
+    position: fixed;
+    bottom: 3%;
+    left: 40%;
+    text-shadow: 1px 1px #666;
+}
+#rocket > span > i:nth-child(2) {
+    position: fixed;
+    bottom: 3.2%;
+    left: 39.8%;
+    background-color: #333;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: rgba(255,255,255,0.8) -1px 1px 3px;
+}
+.fa-fire {
+    position: fixed;
+    bottom: 12px;
+    left: 12px;
+    text-shadow: 0 0 20px #fefcc9,
+    10px -10px 30px #feec85,
+    -20px -20px 40px #ffae34,
+    20px -30px 35px #ec760c,
+    -20px -40px 40px #cd4606,
+    0 -50px 65px #973716,
+    10px -70px 70px #451b0e;
+}
+
+#rocket .fa-comment{
+    position: absolute;
+    bottom: 10px;
+    left: 100px;
+    -ms-transform: rotate(-315deg);
+    -webkit-transform: rotate(-315deg);
+    transform: rotate(-315deg);
+    font-size:100px;
+    display:none;
+}
+#rocket .fa-comment>span{
+    color: #333;
+    font-size: 1REM;
+    line-height: 1.2REM;
+    position: absolute;
+    left: 18px;
+    top: 28px;
+    font-weight: bold;
+}
+#controls {
+    position:fixed;
+    bottom:60px;
+    left:70%;
+    width:30%;
+    z-index:100;
+}
+#controls i{
+    opacity:.75;
+    font-size:15vw;
+    -webkit-transition: all 0.1s ease;
+    -moz-transition: all 0.1s ease;
+    -o-transition: all 0.1s ease;
+    -ms-transition: all 0.1s ease;
+    cursor:pointer;
+}
+#controls i:hover{
+    opacity:1;
+    font-size:17vw;
+}
+#controls i.fa.small{
+    opacity:.65!important;
+    font-size:16vw!important;
+    color:silver!important;
+}

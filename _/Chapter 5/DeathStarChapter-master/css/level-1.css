@@ -1,0 +1,95 @@
+body{padding:0;margin:0;}
+.black{background-color: black;}
+.color-0 { background-color: #85C4ED }	 /* Main Primary color */
+.color-1 { background-color: #58ADE3 }
+.color-2 { background-color: #3499DB }
+.color-3 { background-color: #0F85D1 }
+.color-4 { background-color: #0665A2 }
+.wet-asphalt{background-color:#34495e}
+.blue{color: #85C4ED }
+.blue2{color: #ADD8E6 }
+.green{color:green}
+.white{color:white;}
+.yellow{color:yellow}
+.grey-1{color:#222222}
+.grey-2{color:#666}
+.silver{color:silver}
+
+.left{float:left}
+.right{float:right}
+.curve{border-top-right-radius: 90% 40%;}
+.curve2{border-top-right-radius: 80% 10%;}
+
+#sky{
+    overflow:hidden;
+}
+#sun{
+    position:fixed;
+    top:100px;
+    left:100px;
+    font-size:5px;
+}
+#sun > i{font-size:12em;}
+#sun > :first-child{position:relative;left: 57px;font-size:13em;}
+#sun > :last-child{position:relative;left: -60px;top:2px;font-size:14em;}
+
+
+.fa-plane{
+    -ms-transform: rotate(30deg);
+    -webkit-transform: rotate(30deg);
+    transform: rotate(30deg);
+
+    background-color: #999;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: rgba(255,255,255,0.8) -1px 1px 3px;
+}
+#earth{
+    float:left;
+    font-size: 1000vw;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+.fa-globe{
+    position: relative;
+    float:left;
+    bottom: 423px;
+    right: 350%;
+}
+.fa-globe.land::after {
+    position: absolute;
+    content: '';
+    background: green;
+    z-index: -1;
+    top: 10%;
+    left: 0%;
+    width: 100%;
+    height: 80%;
+    border-radius:50%;
+}
+
+#ground{
+    width: 100%;
+    border-bottom:60px solid brown;
+}
+#ground > div{width:50%;height:0px;}
+#ground .left i{
+    font-size:8vw;
+}
+#ground .right i {
+    float:left;
+}
+#ground > .right > :first-child{
+    left:-20px;
+    bottom:15px;
+}
+#ground .right .small{
+    font-size:12vw;
+}
+#ground .right .large{
+    font-size:14vw;
+}

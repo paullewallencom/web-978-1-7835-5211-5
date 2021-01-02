@@ -1,0 +1,10 @@
+<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'><svg enable-background="new 0 0 500 500" height="500px" id="Layer_1" version="1.1" viewBox="0 0 500 500" width="500px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+    <linearGradient id="myColor" x1="10%" y1="10%" x2="10%" y2="100%" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" style="stop-color:#34495e;stop-opacity:1"/>
+        <stop offset="80%" style="stop-color:#3499DB;stop-opacity:1"/>
+        <stop offset="100%" style="stop-color:#34495e;stop-opacity:1"/>
+    </linearGradient>
+</defs>
+
+<path  fill="url(#myColor)" clip-rule="evenodd" d="M50.847,50.847c-29.528,29.528-18.987,91.946,21.26,161.901  c-2.546,11.996-3.817,24.44-3.817,37.252c0,100.394,81.318,181.71,181.71,181.71c12.811,0,25.251-1.28,37.246-3.817  c69.961,40.246,132.379,50.787,161.906,21.259c29.528-29.527,18.987-91.945-21.259-161.906c2.537-11.985,3.817-24.435,3.817-37.246  c0-100.393-81.316-181.71-181.71-181.71c-12.812,0-25.26,1.274-37.246,3.817C142.793,31.86,80.375,21.319,50.847,50.847z   M413.176,418.899C303.332,454.059,26.856,139.613,83.188,83.191c13.087-12.993,40.708-7.359,74.954,9.996  c-15.17,8.903-28.8,19.897-40.698,32.615c38.339,96.126,161.997,218.869,258.386,255.301c12.448-11.899,23.178-25.628,31.801-40.7  C421.986,371.562,425.624,399.271,413.176,418.899z" fill-rule="evenodd"/></svg>

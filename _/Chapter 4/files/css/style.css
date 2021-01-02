@@ -1,0 +1,140 @@
+body{
+    margin:0;
+    background-color:#3498db;
+}
+body,a{
+    font-family: 'Lato', sans-serif;
+    color:white;
+}
+footer{
+    height:34px;
+    clear:both;
+}
+.peter-river{background-color:#3498db}
+.color-0 { background-color: #3499DB }	/* Main Primary color */
+.color-1 { background-color: #85C4ED }
+.color-2 { background-color: #58ADE3 }
+.color-3 { background-color: #0F85D1 }
+.color-4 { background-color: #0665A2 }
+.wet-asphalt{background-color:#34495e}
+.white{color:white;}
+.right-link{position:absolute;right:0;cursor:pointer;margin-top:5%;opacity:0.8}
+@media (orientation:portrait){
+    #news,#tasks,#weather,#travel,#stocks{
+        padding:2%;
+    }
+    section{width:100%;}
+    section > div:first-of-type{height:110px}
+    div > div{height:110px;width:100%;}
+    .scroll{overflow-x:scroll;}
+    /* TIME */
+    .time h1{
+        margin:5% 3% 1%;
+        padding:0;
+        float:left;
+    }
+    .time span:first-of-type{display:block;}
+    /* NEWS & TASKS */
+    .news ul, .tasks ul{display:inline-block;width:1500px;}
+    .tasks ul li, .news ul li{float:left;width:226px;margin:0 35px 0 0;}
+    .tasks ul li p, .news ul li p{margin:5px;}
+    .tasks ul li h4, .news ul li h4{margin:2px;}
+    /* WEATHER */
+    .weather > ul > li{display:inline;float:left;}
+    .weather > ul > li:first-child > ul > li:first-child{width:21%;float:left;text-align:right;margin-left:15%;}
+    .weather > ul > li:first-child > ul > li:last-child{width:60%;float:right;text-align:center;}
+    .weather h2{font-size:.8REM}
+
+    .travel > *	{float: left;margin:4% 0 0 5%;}
+    .stock > ul > li {
+        float: left;
+        width: 33%;
+        margin: 0;
+        padding: 0;
+        display: inline;
+    }
+}
+@media (min-width:838px){
+    #travel{
+        position: absolute;
+        width: 25%;
+    }
+}
+@media (orientation:landscape){
+    section{width:50%;}
+    section:first-of-type{float:left;}
+    section:last-of-type{float:right;}
+    section > div:first-of-type{height:144px}
+    div > div{width:50%;height:199px;}
+    div > div:first-of-type{float:left;}
+    div > div:last-of-type{float:right;}
+    .scroll{overflow-y:scroll;}
+
+    .dark{color:#34495e;}
+    .left{float:left;clear:left;}
+    .right{float:right;clear:right}
+
+    /* TIME */
+    .time{text-align:center}
+    /* NEWS & TASKS */
+    .news ul, .tasks ul{
+        padding:5%;
+        margin:0;
+    }
+    .news, .tasks{font-size:0.7REM;}
+    /* WEATHER */
+    .weather > ul > li {float:left;margin:0}
+    .weather > ul > li:first-child > ul > li:first-child{width:100%;}
+    .weather > ul > li:first-child > ul > li:last-child{width:100%;text-align:center;}
+    .weather > ul > li:first-child > ul > li:last-child ul{width:100%;padding:0;}
+    .weather h2{font-size:1.5REM}
+
+    .dark{color:#34495e;}
+    .left{float:left;clear:left;}
+    .right{float:right;clear:right}
+    .center{text-align:center;}
+
+    .stock ul{padding:5%;margin:0;}
+    .travel > *{margin-bottom:-8%;}
+}
+button{
+    padding: 13px 21px;
+    margin:8% auto;
+    border-radius: 5px;
+    border-color: #357ebd;
+    color: #fff;
+    background-color: #1abc9c;
+    border: none;
+    width:75%;
+    cursor: pointer;
+    font-size:1.1REM;
+}
+p {
+    width:94%;
+    overflow:hidden;
+}
+.ellipsis{
+    text-overflow:ellipsis;
+    white-space: nowrap;
+    overflow:hidden;
+}
+.ellipsis::after{
+    content:"...";
+    float: right;
+    position: relative;
+    bottom: 24px;
+}
+.large{font-size:2.1REM}
+ul{list-style-type:none;}
+
+.weather > ul{margin:0;padding:0% 0;}
+.weather > ul > li:first-child{width:34%;margin:5% 5% 0 0;}
+.weather > ul > li:last-child{width:60%;margin-top:5%}
+.weather > ul > li > ul {padding:0;margin:0 0 0 5%}
+
+.weather > ul > li:last-child > ul > li:first-child{width:60%;float:left;}
+.weather > ul > li:last-child > ul > li:last-child{width:40%;float:left;}
+.weather > ul > li:last-child > ul > li > ul {margin:0;padding:0;}
+.weather h2{padding:10% 0 0 0;margin:0 auto;text-align:center}
+.weather h2 .wi {font-size:300%;font-weight:bold;}
+.weather span .wi {font-size:100%;font-weight:bold;}

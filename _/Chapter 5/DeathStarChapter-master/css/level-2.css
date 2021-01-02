@@ -1,0 +1,56 @@
+
+#mid #stars > i {
+    z-index:5;
+}
+#saturn object{
+    z-index:10;
+    width: 120%;
+    position: fixed;
+    left: -76%;
+    bottom: 40%;
+    transform: rotate(319deg);
+}
+#boss .row > div,
+#mid .row > div,
+#first .row > div{height:100%}
+
+.falcon {
+    -ms-transform: rotate(50deg);
+    -webkit-transform: rotate(50deg);
+    transform: rotate(50deg);
+}
+.smallship {
+    width:20vw;
+    z-index:99;
+    float:left;
+}
+.death_star {z-index:20}
+.death_star,.saturn{
+    position:absolute;
+    right: 0%;
+}
+.fa-crosshairs{
+    position:absolute;
+    right: 324px;
+    top: 212px;
+    z-index:99;
+}
+#rocketObject #rocket span{z-index:999;}
+.deathStarAdd{display:none}
+.deathStarAdd.show{display:inline;}
+.fa-sun-o{
+    position: absolute;
+    right: 55%;
+    top: 15%;
+    z-index: 999;
+    font-size: 40vw;
+    color: orange;
+}
+.fa-bullseye{
+    position: absolute;
+    right: 47%;
+    top: 7%;
+    z-index: 999;
+    font-size: 65vw;
+    color: red;
+}

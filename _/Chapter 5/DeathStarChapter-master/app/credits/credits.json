@@ -1,0 +1,24 @@
+{
+  "objectgroups": {
+    "credits": {
+      "objects": [
+        {
+          "person": "Ben LaGrone",
+          "credit": "Author"
+        },
+        {
+          "person": "Anel LaGrone",
+          "credit": "Wife"
+        },
+        {
+          "person": "Daphne LaGrone",
+          "credit": "Daughter"
+        },
+        {
+          "person": "Darby LaGrone",
+          "credit": "Daughter"
+        }
+      ]
+    }
+  }
+}

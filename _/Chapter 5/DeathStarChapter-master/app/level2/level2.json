@@ -1,0 +1,228 @@
+{
+  "objectgroups": {
+    "messages":{
+      "objects":[
+        {"text":"Many Bothams died to get these plans!","position":100,"time":4000},
+        {"text":"Be Carefull, there's some fighting ahead!","position":75,"time":5000},
+        {"text":"That's No Moon!","position":30,"time":6000},
+        {"text":"It's a trap!","position":25,"time":6000},
+        {"text":"Almost there!","position":20,"time":6000},
+        {"text":"Almost there!","position":10,"time":6000},
+        {"text":"It's as easy as shooting Womp Rats in Beggars canyon","position":1,"time":6000}
+      ]
+    },
+    "stars": {
+      "objects": [
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"},
+        {"type":"star","idclass":"fa fa-star","sizeclass":"fa-1x","colorclass":"yellow"}
+      ]
+    },
+    "satellite":{
+      "objects":[
+        {"type":"satellite","idclass":"satellite","sizeclass":"","colorclass":"silver"}
+      ]
+    },
+    "objects":{
+      "death_star":{
+        "objects":[
+          {"type":"death_star","idclass":"death_star","sizeclass":"","colorclass":"silver"},
+          {"type":"cloud","idclass":"fa fa-bullseye","sizeclass":"deathStarAdd fa-5x","colorclass":"red"},
+          {"type":"cloud","idclass":"fa fa-sun-o","sizeclass":"deathStarAdd fa-5x","colorclass":"yellow"},
+          {"type":"cloud","idclass":"fa fa-crosshairs","sizeclass":"deathStarAdd fa-5x show","colorclass":"yellow"}
+        ]
+      },
+      "starships1":{
+        "objects":[
+          {"type":"rocket2","idclass":"rocket","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"falcon","idclass":"falcon","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"x-wing","idclass":"x-wing","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"satellite1","idclass":"satellite","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"satellite2","idclass":"satellite","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"satellite3","idclass":"satellite","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"tie-fighter","idclass":"tie-fighter","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"tie-fighter","idclass":"tie-fighter","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"tie-fighter","idclass":"tie-fighter","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"tie-fighter","idclass":"tie-fighter","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"tie-fighter","idclass":"tie-fighter","sizeclass":"smallship","colorclass":"silver"}
+        ]
+      },
+      "starships2":{
+        "objects":[
+          {"type":"rocket2","idclass":"rocket","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"x-wing","idclass":"x-wing","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"satellite1","idclass":"satellite","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"satellite2","idclass":"satellite","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"satellite3","idclass":"satellite","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"tie-fighter","idclass":"tie-fighter","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"tie-fighter","idclass":"tie-fighter","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"tie-fighter","idclass":"tie-fighter","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"tie-fighter","idclass":"tie-fighter","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"tie-fighter","idclass":"tie-fighter","sizeclass":"smallship","colorclass":"silver"}
+        ]
+      },
+      "starships3":{
+        "objects":[
+          {"type":"rocket2","idclass":"rocket","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"x-wing","idclass":"x-wing","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"satellite1","idclass":"satellite","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"satellite2","idclass":"satellite","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"satellite3","idclass":"satellite","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"tie-fighter","idclass":"tie-fighter","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"tie-fighter","idclass":"tie-fighter","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"tie-fighter","idclass":"tie-fighter","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"tie-fighter","idclass":"tie-fighter","sizeclass":"smallship","colorclass":"silver"},
+          {"type":"tie-fighter","idclass":"tie-fighter","sizeclass":"smallship","colorclass":"silver"}
+        ]
+      },
+      "saturn":{
+        "objects":[
+          {"type":"saturn","idclass":"saturn","sizeclass":"","colorclass":"purple"}
+        ]
+      },
+      "rocket":{
+        "objects":[
+          {"type":"rocket","idclass":"fa fa-rocket","sizeclass":"fa-5x","colorclass":"grey-2"},
+          {"type":"rocket","idclass":"fa fa-rocket","sizeclass":"fa-5x","colorclass":"silver"},
+          {"type":"rocket","idclass":"fa fa-fire","sizeclass":"","colorclass":"yellow"},
+          {"type":"rocket","idclass":"fa fa-comment","sizeclass":"fa-5x","colorclass":"white"}
+        ]
+      }
+    }
+  }
+}
+
